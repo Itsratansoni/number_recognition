@@ -1,1 +1,2 @@
 # number_recognition
+The project focuses on handwritten number recognition using a neural network in Python. The neural network is trained on a dataset of handwritten digits, learning to classify them accurately. It involves data preprocessing, network architecture setup, and model training. The model's performance is evaluated on a separate test dataset, achieving high accuracy. The project showcases the power of neural networks in automating digit recognition tasks, offering potential applications in character recognition, optical character recognition (OCR), and more.
